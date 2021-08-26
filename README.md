@@ -17,4 +17,6 @@ finish wins the game. The others often continue play to determine second, third,
 fourth place finishers.
 
 ### Project PDF
+[OSProject-Spring2021.pdf](https://github.com/Talha-1010/Ludo-Game/files/7051343/OSProject-Spring2021.pdf)
+
 
