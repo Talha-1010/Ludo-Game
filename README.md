@@ -16,6 +16,11 @@ square requires a precise roll from the player. The first to bring all their tok
 finish wins the game. The others often continue play to determine second, third, and
 fourth place finishers.
 
+# Screenshots
+![ludo1](https://user-images.githubusercontent.com/61515279/131225810-5965c355-3067-4dff-890d-6a2474dea17e.png)
+
+
+
 ### Project PDF
 [OSProject-Spring2021.pdf](https://github.com/Talha-1010/Ludo-Game/files/7051343/OSProject-Spring2021.pdf)
 
